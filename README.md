@@ -36,9 +36,10 @@ You have been asked to plan a SERVERLESS architecture schematic for a new applic
 - API Gateway
 - DynamoDB
 - S3 Storage
+
 Export your schematic as a PDF and save as Udacity_Diagram_2.pdf
 
-![Terraform_1_1](../main/screenshots/Udacity_Diagram_2.pdf?raw=true "Terraform_1_1")
+![Terraform_1_1](../main/diagrams/Udacity_Diagram_2.pdf?raw=true "Udacity_Diagram_2.pdf")
 
 
 ## Task 2: Calculate Infrastructure Costs
