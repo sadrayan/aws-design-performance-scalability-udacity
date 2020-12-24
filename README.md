@@ -54,6 +54,10 @@ Export your schematic as a PDF and save as Udacity_Diagram_2.pdf
 
 [UdacityCloudTrailLog.csv](UdacityCloudTrailLog.csv)
 
+## Task 4: Set up Cost Monitoring
+
+![CloudWatch_alarm](../main/screenshots/CloudWatch_alarm.png?raw=true "CloudWatch_alarm.png")
+
 ## Task 5 : Use Terraform to Provision AWS Infrastructure
 
 ### Exercise 1
