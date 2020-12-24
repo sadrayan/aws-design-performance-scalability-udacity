@@ -20,9 +20,9 @@ You have been asked to plan and provision a cost-effective AWS infrastructure fo
 - Application Servers Load Balanced and Autoscaled
 - A Master DB in AZ1 with a read replica in AZ2
 
-Use LucidChart or a similar diagramming application to create your schematic. Export your schematic as a PDF and save as Udacity_Diagram_1.pdf.
+Export your schematic as a PDF and save as [Udacity_Diagram_1.pdf](Udacity_Diagram_1.pdf).
 
-![Terraform_1_1](../main/screenshots/Udacity_Diagram_1.pdf?raw=true "Terraform_1_1")
+![Udacity_Diagram_1.png](../main/screenshots/Udacity_Diagram_1.png?raw=true "Udacity_Diagram_1.png")
 
 
 Part 2
