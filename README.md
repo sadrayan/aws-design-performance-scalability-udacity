@@ -44,10 +44,14 @@ Export your schematic as a PDF and save as [Udacity_Diagram_2.pdf](diagrams/Udac
 
 ## Task 2: Calculate Infrastructure Costs
 [Initial_Cost_Estimate.csv](Initial_Cost_Estimate.csv)
-https://calculator.aws/#/estimate?id=a267a55c22c00accc77bb2b6f75043be436aee0c
+
+[AWS Cost Estimator](https://calculator.aws/#/estimate?id=a267a55c22c00accc77bb2b6f75043be436aee0c)
 
 To reduce the monthly cost, we downgrade the RDB instance size, as it was not fully utilized.
+
 [Reduced_Cost_Estimate.csv](Reduced_Cost_Estimate.csv)
+
+[AWS Cost Estimator](https://calculator.aws/#/estimate?id=4307ffe2de0019685a1baca18db78ff2e4228fea)
 
 
 `Increase_Cost_Estimate.csv`
