@@ -37,7 +37,7 @@ You have been asked to plan a SERVERLESS architecture schematic for a new applic
 - DynamoDB
 - S3 Storage
 
-Export your schematic as a PDF and save as [Udacity_Diagram_2.pdf]("diagrams/Udacity_Diagram_2.pdf")
+Export your schematic as a PDF and save as [Udacity_Diagram_2.pdf](diagrams/Udacity_Diagram_2.pdf)
 
 ![Udacity Diagram 2](../main/screenshots/Udacity_Diagram_2.png?raw=true "Udacity_Diagram_2.png")
 
