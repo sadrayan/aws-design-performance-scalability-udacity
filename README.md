@@ -43,11 +43,16 @@ Export your schematic as a PDF and save as Udacity_Diagram_2.pdf
 
 ## Task 2: Calculate Infrastructure Costs
 `Initial_Cost_Estimate.csv`
+
 `Reduced_Cost_Estimate.csv`
+
 `Increase_Cost_Estimate.csv`
 
 ## Task 3: Configure Permissions
 ![udacity_password_policy](../main/screenshots/udacity_password_policy.png?raw=true "udacity_password_policy.png")
+
+UdacityCloudTrailLog.csv
+[UdacityCloudTrailLog](UdacityCloudTrailLog.csv)
 
 ## Task 5 : Use Terraform to Provision AWS Infrastructure
 
