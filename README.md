@@ -44,4 +44,13 @@ Clean up
    * A variables.tf file with an AWS region
   
 2. Take a screenshot of the EC2 instances page
+![Terraform_vpc](../main/screenshots/Terraform_2_1.png?raw=true "Terraform_ec2")
+
 3. Take a screenshot of the VPC page 
+![Terraform_vpc](../main/screenshots/Terraform_2_2.png?raw=true "Terraform_vpc")
+
+4. Take a screenshot of the CloudWatch log entry for the lambda function execution
+![Terraform_lambda_cloudwatch](../main/screenshots/Terraform_2_3.png?raw=true "Terraform_lambda_cloudwatch")
+
+### Task 6: Destroy the Infrastructure using Terraform and prepare for submission
+![Terraform_destroy](../main/screenshots/Terraform_destroyed.png?raw=true "Terraform_destroy")
