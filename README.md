@@ -21,12 +21,12 @@
 `terraform init`
 
 `terraform apply`
-![Alt text](../screenshots/Terraform_1_1?raw=true "Terraform_1_1")
+![Terraform_1_1](../main/screenshots/Terraform_1_1.png?raw=true "Terraform_1_1")
 
 Comment out the M4 instances, and run again
 
 `terraform apply`
-![Alt text](../screenshots/Terraform_1_2?raw=true "Terraform_1_2")
+![Terraform_1_1](../main/screenshots/Terraform_1_2.png?raw=true "Terraform_1_2")
 
 Clean up
 
