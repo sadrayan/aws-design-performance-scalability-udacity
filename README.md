@@ -53,8 +53,10 @@ To reduce the monthly cost, we downgrade the RDB instance size, as it was not fu
 
 [AWS Cost Estimator](https://calculator.aws/#/estimate?id=4307ffe2de0019685a1baca18db78ff2e4228fea)
 
+Increase EC2 performance by moving to M5 instances type. Increase DB redundancy to 4 replica, instance type, provisioned IOPS
 
-`Increase_Cost_Estimate.csv`
+[Increase_Cost_Estimate.csv`](Increase_Cost_Estimate.csv)
+[AWS Cost Estimator](https://calculator.aws/#/estimate?id=b3da587464dd657db2a121573783e8d147bb56de)
 
 ## Task 3: Configure Permissions
 ![udacity_password_policy](../main/screenshots/udacity_password_policy.png?raw=true "udacity_password_policy.png")
