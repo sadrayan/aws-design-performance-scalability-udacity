@@ -39,7 +39,7 @@ You have been asked to plan a SERVERLESS architecture schematic for a new applic
 
 Export your schematic as a PDF and save as Udacity_Diagram_2.pdf
 
-![Terraform_1_1](../main/diagrams/Udacity_Diagram_2.pdf?raw=true "Udacity_Diagram_2.pdf")
+![Udacity Diagram 2](../main/screenshots/Udacity_Diagram_2.png?raw=true "Udacity_Diagram_2.png")
 
 
 ## Task 2: Calculate Infrastructure Costs
