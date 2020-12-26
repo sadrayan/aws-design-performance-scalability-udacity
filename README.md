@@ -44,6 +44,7 @@ Export your schematic as a PDF and save as [Udacity_Diagram_2.pdf](diagrams/Udac
 
 ## Task 2: Calculate Infrastructure Costs
 Initial cost estimates of the diagram 1. 
+
 [Initial_Cost_Estimate.csv](Initial_Cost_Estimate.csv)
 
 [AWS Cost Estimator](https://calculator.aws/#/estimate?id=b877fb1b5d5db8048cc91fd4fc05bc8983963065)
