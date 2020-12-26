@@ -43,21 +43,22 @@ Export your schematic as a PDF and save as [Udacity_Diagram_2.pdf](diagrams/Udac
 
 
 ## Task 2: Calculate Infrastructure Costs
+Initial cost estimates of the diagram 1. 
 [Initial_Cost_Estimate.csv](Initial_Cost_Estimate.csv)
 
-[AWS Cost Estimator](https://calculator.aws/#/estimate?id=a267a55c22c00accc77bb2b6f75043be436aee0c)
+[AWS Cost Estimator](https://calculator.aws/#/estimate?id=b877fb1b5d5db8048cc91fd4fc05bc8983963065)
 
 To reduce the monthly cost, we downgrade the RDB instance size, as it was not fully utilized.
 
 [Reduced_Cost_Estimate.csv](Reduced_Cost_Estimate.csv)
 
-[AWS Cost Estimator](https://calculator.aws/#/estimate?id=4307ffe2de0019685a1baca18db78ff2e4228fea)
+[AWS Cost Estimator](https://calculator.aws/#/estimate?id=0b5c08b70a368952c87cca4cb2de98d85a8fb0ec)
 
 Increase EC2 performance by moving to M5 instances type. Increase DB redundancy to 4 replica, instance type, provisioned IOPS
 
 [Increase_Cost_Estimate.csv](Increase_Cost_Estimate.csv)
 
-[AWS Cost Estimator](https://calculator.aws/#/estimate?id=b3da587464dd657db2a121573783e8d147bb56de)
+[AWS Cost Estimator](https://calculator.aws/#/estimate?id=a33c45beaccf9e39c1909ad802e89867baf2260f)
 
 ## Task 3: Configure Permissions
 ![udacity_password_policy](../main/screenshots/udacity_password_policy.png?raw=true "udacity_password_policy.png")
